@@ -1,0 +1,11 @@
+RECOMENDAÇÃO DE AÇÃO:
+
+Ação Recomendada: "Notificar Cliente" e "Acionar setor Anti-Fraude"
+
+De acordo com o status da transação fornecido, a transação id "9c" foi marcada como uma possível fraude. Esta indicação de fraude baseia-se na incompatibilidade do valor e do horário da transação com os hábitos regulares de consumo do cliente.
+
+Portanto, em resposta a essa atividade suspeita, é recomendável acionar imediatamente o setor Anti-Fraude para uma investigação mais aprofundada da transação. A transação deve também ser colocada em modo de espera até que seja concluída uma investigação rigorosa da mesma.
+
+Além disso, o cliente deve ser notificado imediatamente sobre a atividade suspeita em sua conta. O cliente deve confirmar a autenticidade da transação para evitar possíveis confusões e garantir a segurança de seu dinheiro.
+
+Em relação à classificação da fraude, essa transação parece ser um caso de 'Fraude de Cartão de Crédito', pois uma transação anormalmente alta foi feita fora do horário comercial. No entanto, uma classificação precisa pode ser feita apenas após uma investigação mais aprofundada pelo setor Anti-Fraude.
